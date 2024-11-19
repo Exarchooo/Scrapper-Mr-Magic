@@ -1,4 +1,4 @@
-**Feel free to contribute! I don't scrapp anymore nor work in 'IT' community. There isn't GUI, so it will be nice if someone do it.**
+**Feel free to contribute! I don't scrapp anymore nor work in 'IT' community. There isn't GUI and release, so it will be nice if someone do it.**
 
 Hello dear scrappers!
 With this repository, you can scrape all the sites that match your search in DuckDuckGo. 
