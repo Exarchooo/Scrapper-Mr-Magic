@@ -11,6 +11,7 @@ import urllib.parse
 from scrapy.crawler import CrawlerProcess
 from scrapy.spiders import Spider
 # You may implement anti-captcha stuff
+# If site to scrapp has a geoloation blockade, then program may fail. Eg. in Europe most of a tor connections are from Germany
 
 # Tor identify  Mr Maaagic, take a token
 def renew_tor_identity():
